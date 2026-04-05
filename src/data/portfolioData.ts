@@ -4,8 +4,8 @@ export const personalInfo = {
   tagline: "Building production-grade apps across mobile, web & backend.",
   email: "gauravpahwa2011@gmail.com",
   phone: "+91-9811117989",
-  linkedIn: "https://linkedin.com/in/gauravpahwa",
-  github: "https://github.com/gauravpahwa",
+  linkedIn: "https://www.linkedin.com/in/gaurav-pahwa-9297a824a/",
+  github: "https://github.com/gpahwa10",
   calendlyUrl: "https://calendly.com/gauravpahwa",
   location: "New Delhi, India",
 };
