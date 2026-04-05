@@ -6,7 +6,7 @@ export const personalInfo = {
   phone: "+91-9811117989",
   linkedIn: "https://www.linkedin.com/in/gaurav-pahwa-9297a824a/",
   github: "https://github.com/gpahwa10",
-  calendlyUrl: "https://calendly.com/gauravpahwa",
+  calendlyUrl: "https://calendly.com/gauravpahwa2011",
   location: "New Delhi, India",
 };
 
